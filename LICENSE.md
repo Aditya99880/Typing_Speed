@@ -1,0 +1,1 @@
+This Typing Speed Calculator is open-source and available under the MIT License. The MIT License is a permissive free software license written by the Massachusetts Institute of Technology. Feel free to modify and share as you see fit!

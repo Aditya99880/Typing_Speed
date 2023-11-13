@@ -1,0 +1,1 @@
+Welcome to the Typing Speed Calculator, a fun and interactive hobby project designed to harness the power of JavaScript to measure and enhance your typing skills. This simple yet effective web application allows users to gauge their typing speed in words per minute (WPM) by providing a user-friendly platform for typing exercises.
